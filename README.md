@@ -1,5 +1,9 @@
 ﻿# bytive-assignment
 
+  ```bash
+ https://drive.google.com/drive/folders/1wmQOvix6KCe-OP8P5y-SPMbB59CdeKGy?usp=sharing
+ ```
+
 # Task Management API
 
 A simple API to manage tasks, including authentication, task creation, updating, and deletion. The app is built using Node.js, Express.js, MongoDB, and JWT for authentication.
@@ -37,9 +41,15 @@ Before you begin, make sure you have the following installed:
 
 2. **Install all dependencies**:
 
+       ```bash
+  npm i
+ ```
 
 3. **Start the Application**:
 
+      ```bash
+  npm start
+ ```
    
 
   
