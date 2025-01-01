@@ -41,15 +41,15 @@ Before you begin, make sure you have the following installed:
 
 2. **Install all dependencies**:
 
-       ```bash
+```bash
   npm i
- ```
+```
 
 3. **Start the Application**:
-
-      ```bash
+   
+```bash
   npm start
- ```
+```
    
 
   
